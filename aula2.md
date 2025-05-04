@@ -2,6 +2,8 @@
 
 **Bloco 1: Abertura e Contextualização (~5 min)**
 
+"Olá! Sejam muito bem-vindo à segunda aula da nossa Pré-Imersão Zuper Agentes IA. Eu sou o Mateus Alberone, Engenheiro de IA na Blips, e estou realmente empolgado para continuar essa jornada com vocês, rumo à construção de agentes de IA que vão, de fato, transformar a maneira como vocês trabalham e como seus negócios operam."
+
 1.  **Boas-Vindas e Apresentação:**
     *   Cumprimentar (Olá, pessoal! Bem-vindos de volta!).
     *   Se apresentar (Mateus Alberone, Engenheiro de IA Blips).
